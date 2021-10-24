@@ -20,3 +20,5 @@
 `WHEN I review the way the app dispatches actions`  
 `THEN I find that the app uses Redux instead of the Context API`  
 
+## Live deployed application:
+[Deployed Application](https://pacific-reef-84064.herokuapp.com/)
